@@ -5,9 +5,7 @@ Category: Misc
 Points: 20
 
 ## Challenge Description
-> We want to update our website but we are unable to because the developer who coded this left today. Can you take a look?
-
-### Downloads
+> We want to update our website but we are unable to because the developer who coded this left today. Can you take a look?  
 Zipped folder containing [c](./c)
 
 ## Approach

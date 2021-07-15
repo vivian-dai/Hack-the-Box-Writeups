@@ -5,9 +5,7 @@ Category: Crypto
 Points: 10
 
 ## Challenge Description
-> Decrypt the code and find the Queen's secret!
-
-### Downloads
+> Decrypt the code and find the Queen's secret!    
 ![The secret of a Queen](./The%20secret%20of%20a%20Queen.png)
 
 ## Approach
