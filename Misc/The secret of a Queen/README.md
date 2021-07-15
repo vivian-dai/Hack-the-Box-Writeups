@@ -1,7 +1,7 @@
 # The secret of a Queen
 
 Author: [brutale1602](https://app.hackthebox.eu/users/148257)  
-Category: Crypto  
+Category: Misc  
 Points: 10
 
 ## Challenge Description
