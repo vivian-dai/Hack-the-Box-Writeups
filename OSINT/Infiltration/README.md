@@ -1,7 +1,7 @@
 # Infiltration
 
-Author: [greenwolf](https://app.hackthebox.eu/users/110957)
-Category: OSINT
+Author: [greenwolf](https://app.hackthebox.eu/users/110957)  
+Category: OSINT  
 Points: 30
 
 ## Challenge Description

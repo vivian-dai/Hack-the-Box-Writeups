@@ -1,7 +1,7 @@
 # Canvas
 
-Author: [felamos](https://app.hackthebox.eu/users/27390)
-Category: Misc
+Author: [felamos](https://app.hackthebox.eu/users/27390)  
+Category: Misc  
 Points: 20
 
 ## Challenge Description
