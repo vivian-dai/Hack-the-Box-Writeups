@@ -1,6 +1,7 @@
 # Hack the Box Writeups
- my writeups for various [Hack the Box challenges](https://app.hackthebox.eu/challenges) and possibly boxes if I get to them.
+my writeups for various [Hack the Box challenges](https://app.hackthebox.eu/challenges) and possibly boxes if I get to them.
 
- ## Categories
+## Categories
+### [Reversing]
 ### [Misc](./Misc/README.md)
 ### [OSINT](OSINT/README.md)
