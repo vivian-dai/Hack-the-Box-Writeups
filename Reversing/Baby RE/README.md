@@ -7,7 +7,7 @@ Points: 10
 ## Challenge Description
 > Show us your basic skills! (P.S. There are 4 ways to solve this, are you willing to try them all?)\
 
-### Downloads
+## Downloads
 [baby](./baby)
 
 ## Approach
