@@ -4,5 +4,6 @@ my writeups for various [Hack the Box challenges](https://app.hackthebox.eu/chal
 ## Categories
 ### [Hardware](./Hardware/README.md)
 ### [Reversing](./Reversing/README.md)
+### [Stego](./Stego/README.md)
 ### [Misc](./Misc/README.md)
 ### [OSINT](OSINT/README.md)
