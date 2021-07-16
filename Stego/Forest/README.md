@@ -6,7 +6,7 @@ Points: 40
 ## Challenge Description
 > Explore the forest and capture the flag!
 
-![forest][forest.jpg]
+![forest](./forest.jpg)
 
 ## Approach
 First, I tried running `strings` but nothing interesting came up.  
