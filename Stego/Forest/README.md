@@ -7,7 +7,7 @@ Points: 40
 > Explore the forest and capture the flag!
 
 ### Downloads
-![forest][forest.jpg]
+![forest](./forest.jpg)
 
 ## Approach
 First, I tried running `strings` but nothing interesting came up.  
