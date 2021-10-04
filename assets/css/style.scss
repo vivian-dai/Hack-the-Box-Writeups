@@ -3,7 +3,21 @@
 
 @import "{{ site.theme }}";
 
+// https://www.hackthebox.eu/docs/Hack_The_Box_Brand_Assets_Guide.pdf
+
 body, html {
     background-color: #141d2b;
     color: #9fef00;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #a4b1cd;
+}
+
+a {
+    color: #0086ff;
+}
+
+a:visited {
+    color: #9f00ff;
 }
